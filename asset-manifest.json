@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Starship/static/css/main.9cf82056.css",
+    "main.js": "/Starship/static/js/main.5c068d6e.js",
+    "static/js/453.0a36081d.chunk.js": "/Starship/static/js/453.0a36081d.chunk.js",
+    "static/media/testiminsaal.jpg": "/Starship/static/media/testiminsaal.15276869d2e10e38d91b.jpg",
+    "static/media/hero1.png": "/Starship/static/media/hero1.4bfd29d1e1ae45eae595.png",
+    "static/media/img4.jpeg": "/Starship/static/media/img4.ac68b3552ee365fccefb.jpeg",
+    "static/media/logo.svg": "/Starship/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Starship/index.html",
+    "main.9cf82056.css.map": "/Starship/static/css/main.9cf82056.css.map",
+    "main.5c068d6e.js.map": "/Starship/static/js/main.5c068d6e.js.map",
+    "453.0a36081d.chunk.js.map": "/Starship/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf82056.css",
+    "static/js/main.5c068d6e.js"
+  ]
+}
